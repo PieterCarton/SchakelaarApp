@@ -1,0 +1,23 @@
+{
+  "name": "SchakelaarApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "price-graph-renderer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PieterCarton/SchakelaarApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PieterCarton/SchakelaarApp/issues"
+  },
+  "homepage": "https://github.com/PieterCarton/SchakelaarApp#readme",
+  "dependencies": {
+    "chart.js": "^4.2.1"
+  }
+}
